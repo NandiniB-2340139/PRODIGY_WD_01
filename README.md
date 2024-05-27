@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-PRODIGY INFO TECH TASKS
+Responsive Landing Page
